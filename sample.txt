@@ -1,0 +1,38 @@
+{"index":{}}
+{"level":"error","message":"Failed to connect to DB","resourceId":"server-1234","timestamp":"2023-09-15T08:00:00Z","traceId":"abc-xyz-123","spanId":"span-456","commit":"5e5342f","metadata":{"parentResourceId":"server-0987"}}
+{"index":{}}
+{"level":"info","message":"Data processing completed","resourceId":"server-5678","timestamp":"2023-09-16T10:30:00Z","traceId":"def-uvw-456","spanId":"span-789","commit":"6f7589a","metadata":{"parentResourceId":"server-0987"}}
+{"index":{}}
+{"level":"error","message":"Server timeout","resourceId":"server-9012","timestamp":"2023-09-17T12:45:00Z","traceId":"ghi-mno-789","spanId":"span-987","commit":"8a2345b","metadata":{"parentResourceId":"server-3456"}}
+{"index":{}}
+{"level":"warning","message":"Low disk space","resourceId":"server-3456","timestamp":"2023-09-18T14:00:00Z","traceId":"jkl-pqr-012","spanId":"span-321","commit":"9b678cd","metadata":{"parentResourceId":"server-5678"}}
+{"index":{}}
+{"level":"error","message":"Database corruption detected","resourceId":"server-7890","timestamp":"2023-09-19T16:15:00Z","traceId":"mno-stu-345","spanId":"span-654","commit":"1c9876e","metadata":{"parentResourceId":"server-7890"}}
+{"index":{}}
+{"level":"info","message":"System reboot initiated","resourceId":"server-2345","timestamp":"2023-09-20T18:30:00Z","traceId":"pqr-wxy-678","spanId":"span-987","commit":"3e4567f","metadata":{"parentResourceId":"server-9012"}}
+{"index":{}}
+{"level":"error","message":"Network connectivity lost","resourceId":"server-6789","timestamp":"2023-09-21T20:45:00Z","traceId":"vwx-yza-901","spanId":"span-234","commit":"5f7890a","metadata":{"parentResourceId":"server-2345"}}
+{"index":{}}
+{"level":"info","message":"Application update successful","resourceId":"server-8901","timestamp":"2023-09-22T22:00:00Z","traceId":"bcd-efg-123","spanId":"span-567","commit":"7d8901b","metadata":{"parentResourceId":"server-6789"}}
+{"index":{}}
+{"level":"warning","message":"High CPU usage detected","resourceId":"server-1234","timestamp":"2023-09-23T00:15:00Z","traceId":"hij-klm-234","spanId":"span-890","commit":"9g1234c","metadata":{"parentResourceId":"server-9012"}}
+{"index":{}}
+{"level":"error","message":"Unexpected server shutdown","resourceId":"server-5678","timestamp":"2023-09-24T02:30:00Z","traceId":"nop-qrs-567","spanId":"span-123","commit":"1i5678d","metadata":{"parentResourceId":"server-2345"}}
+{"index":{}}
+{"level":"info","message":"User login successful","resourceId":"server-9012","timestamp":"2023-09-25T04:45:00Z","traceId":"tuv-wxz-890","spanId":"span-456","commit":"3j9012e","metadata":{"parentResourceId":"server-5678"}}
+{"index":{}}
+{"level":"error","message":"Disk failure imminent","resourceId":"server-2345","timestamp":"2023-09-26T06:00:00Z","traceId":"yza-bcd-789","spanId":"span-789","commit":"5k2345f","metadata":{"parentResourceId":"server-7890"}}
+{"index":{}}
+{"level":"warning","message":"Memory usage high","resourceId":"server-6789","timestamp":"2023-09-27T08:15:00Z","traceId":"efg-hij-901","spanId":"span-012","commit":"7m6789g","metadata":{"parentResourceId":"server-3456"}}
+{"index":{}}
+{"level":"info","message":"Configuration updated","resourceId":"server-3456","timestamp":"2023-09-28T10:30:00Z","traceId":"klm-nop-234","spanId":"span-345","commit":"9o3456h","metadata":{"parentResourceId":"server-6789"}}
+{"index":{}}
+{"level":"error","message":"Unauthorized access attempt","resourceId":"server-7890","timestamp":"2023-09-29T12:45:00Z","traceId":"qrs-tuv-567","spanId":"span-678","commit":"1p7890i","metadata":{"parentResourceId":"server-1234"}}
+{"index":{}}
+{"level":"info","message":"File upload completed","resourceId":"server-1234","timestamp":"2023-09-30T14:00:00Z","traceId":"wxy-zaa-890","spanId":"span-901","commit":"3q1234j","metadata":{"parentResourceId":"server-7890"}}
+{"index":{}}
+{"level":"warning","message":"System overheating detected","resourceId":"server-5678","timestamp":"2023-10-01T16:15:00Z","traceId":"bcd-efg-123","spanId":"span-234","commit":"5r5678k","metadata":{"parentResourceId":"server-2345"}}
+{"index":{}}
+{"level":"error","message":"Service unavailable","resourceId":"server-9012","timestamp":"2023-10-02T18:30:00Z","traceId":"fgh-ijk-456","spanId":"span-567","commit":"7s9012l","metadata":{"parentResourceId":"server-6789"}}
+{"index":{}}
+{"level":"info","message":"Backup process started","resourceId":"server-2345","timestamp":"2023-10-03T20:45:00Z","traceId":"lmn-opq-789","spanId":"span-890","commit":"9t2345m","metadata":{"parentResourceId":"server-9012"}}
